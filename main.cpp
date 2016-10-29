@@ -19,7 +19,7 @@ main() {
     switch(a){
         case 1:
             system("clear");
-
+            printf("entro en peticion 1");
             break;
     }
 
