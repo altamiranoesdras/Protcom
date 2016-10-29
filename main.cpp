@@ -5,10 +5,23 @@
 #include <getopt.h>   // para leer la opciones que se pasan como argumentos
 #include <string.h>   // para manejar cadenas de texto
 #include <stdlib.h>
+#include <iostream>
 
-int main() {
-    printf("prueba");
-    system("clear");
-    printf("prueba2");
-    return 0;
+using namespace std;
+main() {
+    int a;
+    printf("_:::::::::::::MENU::::::::::::_\n");
+    printf("1) ENVIAR MENSAJE \n");
+    printf("2) ENVIAR ARCHIVO \n");
+    printf("\n \n elija su opcion \n");
+    printf("___________________________________\n");
+    printf("opcion  "); cin>>a;
+    switch(a){
+        case 1:
+            system("clear");
+
+            break;
+    }
+
+    getchar();
 }
