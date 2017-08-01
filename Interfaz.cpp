@@ -26,8 +26,6 @@ int main() {
 
     idCola=creaCola(COLA_EMISOR);
 
-    system("gnome-terminal -e ./Emisor");
-
     do{
         menu(op);
 
