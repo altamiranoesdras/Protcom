@@ -1,0 +1,49 @@
+4 rocesos, solo comunican por coloa
+
+Terminal unico interaccione usuario
+
+Receotor ciclo infinito esperando alguien envie algo
+R,E,Ej solo mustran logs
+
+
+Emisor solo lee lo que esta en cola y lo transmite
+
+todos los paquetes pesan los mismo
+
+struct
+	id
+	paquete 
+
+Receptor solo decide con quien se comunica (recibe algo  no es para host anfitrion lo retransmite)
+
+Ejecutor lee los archivos
+
+cada linea 
+
+cada char en c crear y limpiar al finalizar
+
+
+se pueden trasmitir comandos,texto o archivo
+
+concatenar asteriscos cuando no ocupe spacion nombres de archvos
+quitar asterisco cuando se busca el archivo si los tiene
+
+solo existen 2 colas
+
+leer archivo caracter por caracter
+
+ciclo
+	partir archivos en paqueres
+	ciclo 
+		leer 857 caracteres
+
+	poner paquete en cola emisor
+
+
+
+Sabado 5 nov 2016
+	Recomendaciones investigar
+		Filosofo comensal y barbero dormilon
+
+
+	
